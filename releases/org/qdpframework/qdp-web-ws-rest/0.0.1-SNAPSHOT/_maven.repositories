@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Aug 16 10:38:05 CST 2016
+qdp-web-ws-rest-0.0.1-SNAPSHOT.jar>=
+qdp-web-ws-rest-0.0.1-SNAPSHOT.pom>=
+qdp-web-ws-rest-0.0.1-SNAPSHOT.pom>nexus=
+qdp-web-ws-rest-0.0.1-SNAPSHOT.jar>nexus=
